@@ -1,0 +1,51 @@
+{
+    "products": [ 
+  {
+      "id": 1,
+      "title": "iPhone 5s",
+      "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+      "price": 199.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp",
+      "quantity" : 1
+    },
+    {
+      "id": 2,
+      "title": "iPhone 6",
+      "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+      "price": 299.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp",
+      "quantity" : 1
+    },
+    {
+      "id": 3,
+      "title": "iPhone 13 Pro",
+      "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+      "price": 1099.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp",
+       "quantity" : 1
+    },
+    {
+      "id": 4,
+      "title": "iPhone X",
+      "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+      "price": 899.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp",
+       "quantity" : 1
+    },
+    {
+      "id": 5,
+      "title": "Oppo A57",
+      "description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+      "price": 249.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp",
+       "quantity" : 1
+    },
+    {
+      "id": 6,
+      "title": "Oppo F19 Pro Plus",
+      "description": "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+      "price": 399.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/thumbnail.webp",
+       "quantity" : 1
+    
+    }]}
